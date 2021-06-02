@@ -1,0 +1,1 @@
+These are some collection of useful snippets that I've used on my code and felt that these should be benficial for me to use in the future. Some snippets were writen completely by me, some were collected from the internet and then modified according to the need. Some snippets from the internet were also outdated which I needed to tweak a bit.
