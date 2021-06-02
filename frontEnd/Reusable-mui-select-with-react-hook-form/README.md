@@ -1,0 +1,2 @@
+Use this snippet if you are wondering how you would use reusable Material UI component along with React Hook Form.
+Inspired from this article: https://dev.to/raduan/4-ways-to-use-material-ui-select-with-react-hook-form-41b2
